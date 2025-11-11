@@ -1,0 +1,7 @@
+[
+  { "id": "apple", "display": "りんご", "aliases": ["りんご", "リンゴ", "林檎"] },
+  { "id": "ball", "display": "ボール", "aliases": ["ボール", "ぼーる"] },
+  { "id": "book", "display": "本", "aliases": ["本", "ほん"] },
+  { "id": "pen", "display": "ペン", "aliases": ["ペン", "ぺん"] },
+  { "id": "box", "display": "箱", "aliases": ["箱", "はこ"] }
+]

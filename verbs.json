@@ -1,0 +1,7 @@
+[
+  { "id": "throw", "dict": "投げる" },
+  { "id": "open",  "dict": "開ける" },
+  { "id": "push",  "dict": "押す" },
+  { "id": "turn",  "dict": "回す" },
+  { "id": "lift",  "dict": "持ち上げる" }
+]

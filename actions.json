@@ -1,0 +1,7 @@
+[
+  { "id": "right_hand_up", "motion": "右手を上げる", "speech_template": "{noun_disp}を{verb}よ" },
+  { "id": "left_hand_up", "motion": "左手を上げる", "speech_template": "{noun_disp}を{verb}よ" },
+  { "id": "spread_arms", "motion": "両手を広げる", "speech_template": "{noun_disp}を{verb}よ" },
+  { "id": "nod", "motion": "うなずく", "speech_template": "{noun_disp}を{verb}よ" },
+  { "id": "tilt_head", "motion": "首をかしげる", "speech_template": "{noun_disp}を{verb}よ" }
+]
